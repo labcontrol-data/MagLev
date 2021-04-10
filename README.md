@@ -1,6 +1,4 @@
 # MagLev
-
-About
 ============
 
 This page provides information about the project developed in the Department of Mathematics, Universitat Politecnica de Catalunya-BarcelonaTech (ESEIAAT), 08222 Terrassa, Spain, called MagLev. Experiments were carried out in practice in a laboratory testbed, and the data contained in this Github repository were collected in those experiments. 
